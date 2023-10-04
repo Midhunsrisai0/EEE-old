@@ -822,7 +822,7 @@ body a {
 
 
 #content h2 {
-	margin-top: 50px;
+	margin-top: 20px;
 	font-size: 30px;
 	text-align: center;
 }
@@ -941,6 +941,7 @@ body a {
 strong{
 	color: #850209;
 }
+
 
 @media screen and (min-width: 996px) {
 	#content h2 {
