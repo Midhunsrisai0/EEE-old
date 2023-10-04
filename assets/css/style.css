@@ -145,7 +145,7 @@ a[aria-expanded="true"] {
 }
 
 .sidebar a.active {
-    background-color: #9b0b0b;
+    background-color: #444;
 	border-radius: 10px;
     color: white;
 }
