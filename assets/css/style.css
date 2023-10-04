@@ -144,6 +144,12 @@ a[aria-expanded="true"] {
 	position: relative;
 }
 
+.sidebar a.active {
+    background-color: #9b0b0b;
+	border-radius: 10px;
+    color: white;
+}
+
 .sidebar .dropdown-toggle::after {
 	display: block;
 	position: absolute;
