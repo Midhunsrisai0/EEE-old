@@ -938,6 +938,9 @@ body a {
 		/* Apply border radius to the bottom */
 	}
 }
+strong{
+	color: #850209;
+}
 
 @media screen and (min-width: 996px) {
 	#content h2 {
