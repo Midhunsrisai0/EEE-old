@@ -1748,3 +1748,41 @@ img {
 .img-fluid:hover {
 	transform: scale(1.05);
 }
+
+
+/* carousel */
+/* .carousel-container {
+    position: relative;
+    max-width: 600px;
+    overflow: hidden;
+}
+
+.carousel-slide {
+    display: flex;
+    transition: transform 0.3s ease-in-out;
+}
+
+.carousel-slide img {
+    width: 100%;
+    object-fit: cover;
+}
+
+.prev-btn,
+.next-btn {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    font-size: 24px;
+    background: none;
+    border: none;
+    cursor: pointer;
+    color: azure;
+}
+
+.prev-btn {
+    left: 10px;
+}
+
+.next-btn {
+    right: 10px;
+} */
