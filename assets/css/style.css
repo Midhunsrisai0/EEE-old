@@ -1786,3 +1786,59 @@ img {
 .next-btn {
     right: 10px;
 } */
+
+
+ css file ---
+* -------------------------------------------csefacultylib----------------*/
+
+/* Customize card styles */
+.cselibfaculty-card {
+  background-color: #fff;
+  border-radius: 10px;
+
+  border: none;
+  position: relative;
+  margin-bottom: 30px;
+  box-shadow: 0 0.46875rem 2.1875rem rgba(90, 97, 105, 0.1),
+    0 0.9375rem 1.40625rem rgba(90, 97, 105, 0.1),
+    0 0.25rem 0.53125rem rgba(90, 97, 105, 0.12),
+    0 0.125rem 0.1875rem rgba(90, 97, 105, 0.1);
+}
+
+/* Card header styles */
+.cselibfaculty-card-header {
+  border-radius: 10px 10px 0 0;
+  padding: 10px 10px;
+}
+
+/* Card header text styles */
+.cselibfaculty-card-header h5 {
+  margin-bottom: 0;
+  font-size: 20px;
+}
+
+/* Card body styles */
+.cselibfaculty-card-body {
+  padding: 20px;
+}
+
+/* Card text styles */
+.cselibfaculty-card-text {
+  color: #333;
+  font-size: 36px;
+}
+
+/* Gradient background for Card 1 */
+.cselibfaculty-bg-primary {
+  background: linear-gradient(to right, #493240, #f09) !important;
+}
+
+/* Gradient background for Card 2 */
+.cselibfaculty-bg-success {
+  background: linear-gradient(to right, #373b44, #4286f4) !important;
+}
+
+/* Text color for card headers */
+.cselibfaculty-text-white {
+  color: #fff !important;
+}
