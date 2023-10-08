@@ -1788,8 +1788,8 @@ img {
 } */
 
 
- css file ---
-* -------------------------------------------csefacultylib----------------*/
+/* css file ---
+ -------------------------------------------csefacultylib----------------*/
 
 /* Customize card styles */
 .cselibfaculty-card {
@@ -1820,6 +1820,8 @@ img {
 /* Card body styles */
 .cselibfaculty-card-body {
   padding: 20px;
+  background-color: rgb(244, 233, 233);
+  border-radius: 0px 0px 10px 10px;
 }
 
 /* Card text styles */
