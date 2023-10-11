@@ -9,6 +9,7 @@ body {
 
 strong {
 	font-weight: 500;
+	color: #850209;
 }
 
 
@@ -937,9 +938,6 @@ body a {
 		border-radius: 0 0 5px 5px;
 		/* Apply border radius to the bottom */
 	}
-}
-strong{
-	color: #850209;
 }
 
 
