@@ -1299,9 +1299,9 @@ footer h5 {
 	opacity: 0.85;
 }
 
-#content h2 {
-	/* margin-top: 80px; */
-}
+/* #content h2 {
+	margin-top: 80px;
+} */
 
 /* < !------------------sidenav style--> */
 @media screen and (min-width: 768px) and (max-width:800px) {
