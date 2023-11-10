@@ -9,7 +9,7 @@ body {
 
 strong {
 	font-weight: 500;
-	color: #850209;
+	/* color: #850209; */
 }
 
 
@@ -975,7 +975,7 @@ body a {
 		/* Remove border */
 		border-radius: 0;
 		/* Remove border radius */
-		transition: background-color 0.3s ease-in-out;
+		transition: 0.3s ease-in-out;
 		/* Add smooth transition */
 		margin-left: 5px;
 		margin-bottom: 0;
